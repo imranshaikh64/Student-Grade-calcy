@@ -11,7 +11,7 @@ body, button, input{
     display: flex;
     min-height: 100vh;
     width: 50%;
-    margin-left: 280px;
+    margin-left: 300px;
     margin-top: 70px;
 }
 .container{
